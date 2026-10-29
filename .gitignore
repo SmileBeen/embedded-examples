@@ -1,0 +1,6 @@
+# CubeIDE 빌드 결과 · 개인 설정
+Debug/
+Release/
+*.launch
+.metadata/
+.settings/language.settings.xml
